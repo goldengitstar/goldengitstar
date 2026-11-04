@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hello, world!
+
+Full-stack engineer shipping products end to end 
+incorporate new technologies such as blockchain and AI.
+
+Looking for business partner to make something real.
 
 <!--
 **goldengitstar/goldengitstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
