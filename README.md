@@ -1,9 +1,12 @@
 # Hello, world!
 
-Full-stack engineer shipping products end to end 
-incorporate new technologies such as blockchain and AI.
+**Full-stack engineer** shipping products end to end.
 
-Looking for business partner to make something real.
+Interested in new technologies such as *blockchain* and *AI*.
+
+
+
+Looking for partners who are interested in building development business together.
 
 <!--
 **goldengitstar/goldengitstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
